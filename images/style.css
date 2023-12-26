@@ -56,12 +56,6 @@ section .title{
     padding-bottom: 20px;
     font-family: 'Ubuntu', sans-serif;
 }
-
-.blurry-image {
-    /* box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
-    filter: blur(5px); */
-    border-radius: 25px;
-  }
 section .title::before{
     content: "";
     position: absolute;
